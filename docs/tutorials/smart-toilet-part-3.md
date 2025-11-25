@@ -38,7 +38,7 @@ Am Ende hast du ein Programm, das …
 * den Status der Toilette 🚽 über den Magnetschalter erkennt
 * den Status 🚽 über LoRa🛜 ins Internet sendet
 
-Brauchbare Funktionen aus Teil 2 sind schon integriert; das Auswerten der Tasten A und B
+Brauchbare Funktionen aus [Teil 2](https://makecode.microbit.org/#tutorial:github:fave-smartfeld/pxt-smart-toilet-tutorial/docs/tutorials/smart-toilet-part2) sind schon integriert; das Auswerten der Tasten A und B
 wurde hingegen entfernt.
 
 Falls dir am bestehenden Code etwas unklar ist, lohnt es sich,
